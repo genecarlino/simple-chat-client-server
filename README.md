@@ -17,7 +17,7 @@ The program will automaticaly connect to the local host. It will ask the user to
 The picture below shows what the terminal should look like when you enter in a valid port and the server has connected. 
 
 
-<img width = "153" alt = "Click for Photo" src = "https://imgur.com/a/j2fBtxC">
+<!--<img width = "153" alt = "Click for Photo" src = "https://imgur.com/a/j2fBtxC"> -->
 
 
 Client
@@ -29,11 +29,11 @@ The Program will connect to the local host but ask the user to choose a port tha
 
 The picture below shows what the terminal should look like when you enter in a valid port and the client has connected to the server.
 
-<img width = "153" alt = "Click for Photo" src = "https://imgur.com/gallery/fsdRccF">
+<!--<img width = "153" alt = "Click for Photo" src = "https://imgur.com/gallery/fsdRccF"> -->
 
 When a client has connected to the server, the server will print where the accepted connection is coming from. You might see that the accepted connection is different that the port you entered to start the program.Note that the speak.py program creates a new connection to send data from after it connects to the server port.
 
-<img width = "153" alt = "Photo of terminal running speakd" src = "https://imgur.com/gallery/W8UnEdU">
+<!-- <img width = "153" alt = "Photo of terminal running speakd" src = "https://imgur.com/gallery/W8UnEdU"> -->
 
 Functionality
 
