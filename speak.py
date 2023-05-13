@@ -52,5 +52,7 @@ while True:
         if data == 'x':
             state = "sending"
 
-# Close the client socket
+# Close the client socket  
 client_socket.close()
+
+#end of code
